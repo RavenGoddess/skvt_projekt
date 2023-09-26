@@ -20,7 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MotionWarping",
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "StateTree",
 			"Enabled": true
 		}
 	]
