@@ -26,6 +26,10 @@
 		{
 			"Name": "StateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
 		}
 	]
 }
